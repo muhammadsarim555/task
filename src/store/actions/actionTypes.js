@@ -1,0 +1,2 @@
+export const FILTERUSER = 'FILTERUSER';
+export const GETALLUSER = 'GETALLUSER';
